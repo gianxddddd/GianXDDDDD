@@ -6,7 +6,6 @@ I like gaming and coding. :P
 
 **Tools:**
 - [Android Studio](https://developer.android.com/studio)
-- [PHPStorm](https://www.jetbrains.com/phpstorm)
 - [FeatherPad](https://www.github.com/tsujan/FeatherPad)
 - [Lubuntu](https://www.lubuntu.me)
 
