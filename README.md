@@ -17,7 +17,7 @@ Hi! I'm a 13-yo self-taught programmer and who likes to code Android, Java, LibG
 - ~~Windows XP~~ you did not see anything here
 
 **Tools I use:**
-- [Git]()
+- [Git](https://git-scm.com/)
 - [Android Studio](https://developer.android.com/studio)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [FeatherPad](https://www.github.com/tsujan/FeatherPad)
