@@ -12,7 +12,7 @@ Hi! I'm a 13-yo self-taught programmer and who likes to code Android, Java, LibG
 - Batch
 
 **Operating Systems I use:**
-- [Lubuntu](https://www.lubuntu.me) or [LXQt](https://lxqt-project.org)
+- [Kubuntu](https://www.kubuntu.org)
 - [Windows 7](https://en.wikipedia.org/wiki/Windows_7)
 - ~~Windows XP~~ you did not see anything here
 
