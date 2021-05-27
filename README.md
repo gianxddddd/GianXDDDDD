@@ -4,7 +4,7 @@ Hi! I'm a 13-yo self-taught programmer and who likes to code Android, Java, LibG
 
 ----------
 
-**My Programming Skills:**
+**Programming Languages I use:**
 - Python
 - Java
 - Android
@@ -18,6 +18,7 @@ Hi! I'm a 13-yo self-taught programmer and who likes to code Android, Java, LibG
 **Tools I use:**
 - [Git](https://git-scm.com/)
 - [Android Studio](https://developer.android.com/studio)
+- [IntelliJ PyCharm](https://www.jetbrains.com/pycharm)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [FeatherPad](https://www.github.com/tsujan/FeatherPad)
 
