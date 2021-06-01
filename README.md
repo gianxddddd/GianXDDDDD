@@ -19,13 +19,13 @@ Hi! I'm a 13-yo self-taught programmer and who likes to code Android, Java, LibG
 - [Git](https://git-scm.com/)
 - [Android Studio](https://developer.android.com/studio)
 - [IntelliJ PyCharm](https://www.jetbrains.com/pycharm)
-- [Visual Studio Code](https://code.visualstudio.com/)
 - [FeatherPad](https://www.github.com/tsujan/FeatherPad)
 
 <h1>Statistics</h1> <img alt="GianXDDDDD's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gianxddddd&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right">
 
 **My current repository:**
 - [Archo Music (Deprecated)](https://github.com/gianxddddd/ArchoMusic)
+- Archo Browser (Repo not available.)
 ----------
 
 Forked from [ryenyuku](https://github.com/ryenyuku/ryenyuku)
