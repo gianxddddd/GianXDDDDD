@@ -8,6 +8,7 @@ Hi! I'm a 13-yo self-taught programmer and who likes to code Android, Java, LibG
 - Python
 - Java
 - Android
+- Bash
 - Batch
 
 **Operating Systems I use:**
