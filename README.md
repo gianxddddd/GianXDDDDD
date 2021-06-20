@@ -1,6 +1,6 @@
 <h1>GianXD</h1>
 
-Hi! I'm a 13-yo self-taught programmer and who likes to code Android, Java, LibGDX, Python, and Windows Batch.
+Hi! I'm a 13-yo self-taught programmer and who likes to code Android, Java, Kotlin, Python, Bash, and Windows Batch.
 
 ----------
 
