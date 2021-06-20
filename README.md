@@ -26,7 +26,7 @@ Hi! I'm a 13-yo self-taught programmer and who likes to code Android, Java, LibG
 
 **My current repository:**
 - [DevScripts](https://github.com/gianxddddd/DevScripts)
-- [Archo Music (Deprecated)](https://github.com/gianxddddd/ArchoMusic)
+- [Archo Music](https://github.com/gianxddddd/ArchoMusic)
 - A̶r̶c̶h̶o̶ ̶B̶r̶o̶w̶s̶e̶r̶
 ----------
 
