@@ -21,7 +21,7 @@ Hi! I'm a 14-yo self-taught programmer and who likes to code in Android, Java, K
 - [Git](https://git-scm.com/)
 - [Android Studio](https://developer.android.com/studio)
 - [IntelliJ PyCharm](https://www.jetbrains.com/pycharm)
-- [Krita](https://krita.org)
+- [Kate](https://kate-editor.org/)
 
 <h1>Statistics</h1> <img alt="GianXDDDDD's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gianxddddd&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right">
 
