@@ -15,7 +15,7 @@ Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 - Batch
 
 **Operating Systems I use:**
-- [Fedora 34](https://getfedora.org]
+- [Fedora 34](https://getfedora.org)
 - [Windows 7](https://en.wikipedia.org/wiki/Windows_7)
 - ~~Windows XP~~ you did not see anything here
 
