@@ -2,7 +2,7 @@
 
 Hi! I'm a 14-yo self-taught programmer and who likes to code in Android, Java, Kotlin, Python, Bash, and Windows Batch.
 
-Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic), and made a developmenm
+Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 
 ----------
 
