@@ -2,6 +2,8 @@
 
 Hi! I'm a 14-yo self-taught programmer and who likes to code in Android, Java, Kotlin, Python, Bash, and Windows Batch.
 
+Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic), and made a developmenm
+
 ----------
 
 **Programming Languages I use:**
@@ -13,7 +15,7 @@ Hi! I'm a 14-yo self-taught programmer and who likes to code in Android, Java, K
 - Batch
 
 **Operating Systems I use:**
-- [Lubuntu](https://www.lubuntu.me) or [LXQt](https://www.lxqt-project.org)
+- [Fedora 34](https://getfedora.org]
 - [Windows 7](https://en.wikipedia.org/wiki/Windows_7)
 - ~~Windows XP~~ you did not see anything here
 
@@ -21,7 +23,7 @@ Hi! I'm a 14-yo self-taught programmer and who likes to code in Android, Java, K
 - [Git](https://git-scm.com/)
 - [Android Studio](https://developer.android.com/studio)
 - [IntelliJ PyCharm](https://www.jetbrains.com/pycharm)
-- [Kate](https://kate-editor.org/)
+- [gedit](https://wiki.gnome.org/Apps/Gedit)
 
 <h1>Statistics</h1> <img alt="GianXDDDDD's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gianxddddd&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right">
 
