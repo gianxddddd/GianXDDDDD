@@ -15,7 +15,7 @@ Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 - Batch
 
 **Operating Systems I use:**
-- [btw i use arch](https://arch-linux.org) with [LXQt](https://lxqt-project.org/)
+- [btw i use arch](https://archlinux.org) with [LXQt](https://lxqt-project.org/)
 - [Windows 7](https://en.wikipedia.org/wiki/Windows_7)
 - ~~Windows XP~~ you did not see anything here
 
