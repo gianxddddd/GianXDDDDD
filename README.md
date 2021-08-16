@@ -15,7 +15,7 @@ Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 - Batch
 
 **Operating Systems I use:**
-- [Fedora 34](https://getfedora.org)
+- [btw i use arch](https://arch-linux.org) with [LXQt](https://lxqt-project.org/)
 - [Windows 7](https://en.wikipedia.org/wiki/Windows_7)
 - ~~Windows XP~~ you did not see anything here
 
@@ -23,13 +23,13 @@ Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 - [Git](https://git-scm.com/)
 - [Android Studio](https://developer.android.com/studio)
 - [IntelliJ PyCharm](https://www.jetbrains.com/pycharm)
-- [gedit](https://wiki.gnome.org/Apps/Gedit)
+- [FeatherPad](https://github.com/tsujan/FeatherPad)
 
 <h1>Statistics</h1> <img alt="GianXDDDDD's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gianxddddd&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right">
 
 **My current repository:**
-- [DevScripts](https://github.com/gianxddddd/DevScripts)
 - [Archo Music](https://github.com/gianxddddd/ArchoMusic)
+- [DevScripts](https://github.com/gianxddddd/DevScripts)
 - A̶r̶c̶h̶o̶ ̶B̶r̶o̶w̶s̶e̶r̶
 ----------
 
