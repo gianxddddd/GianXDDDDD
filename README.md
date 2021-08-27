@@ -22,15 +22,16 @@ Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 **Tools I use:**
 - [Git](https://git-scm.com/)
 - [Android Studio](https://developer.android.com/studio)
-- [IntelliJ PyCharm](https://www.jetbrains.com/pycharm)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea)
+- [PyCharm](https://www.jetbrains.com/pycharm)
+- [Webstorm](https://www.jetbrains.com/webstorm)
+- [Visual Studio Code](https://code.visualstudio.com)
 - [FeatherPad](https://github.com/tsujan/FeatherPad)
 
 <h1>Statistics</h1> <img alt="GianXDDDDD's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gianxddddd&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right">
 
 **My current repository:**
 - [Archo Music](https://github.com/gianxddddd/ArchoMusic)
-- [DevScripts](https://github.com/gianxddddd/DevScripts)
-- A̶r̶c̶h̶o̶ ̶B̶r̶o̶w̶s̶e̶r̶
 ----------
 
 Forked from [ryenyuku](https://github.com/ryenyuku/ryenyuku)
