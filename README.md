@@ -15,18 +15,15 @@ Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 - Batch
 
 **Operating Systems I use:**
-- [btw i use arch](https://archlinux.org) with [LXQt](https://lxqt-project.org/)
+- [btw i use arch](https://archlinux.org) with [KDE](https://kde.org/)
 - [Windows 7](https://en.wikipedia.org/wiki/Windows_7)
 - ~~Windows XP~~ you did not see anything here
 
 **Tools I use:**
 - [Git](https://git-scm.com/)
 - [Android Studio](https://developer.android.com/studio)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea)
-- [PyCharm](https://www.jetbrains.com/pycharm)
-- [Webstorm](https://www.jetbrains.com/webstorm)
 - [Visual Studio Code](https://code.visualstudio.com)
-- [FeatherPad](https://github.com/tsujan/FeatherPad)
+- [Kate](https://kate-editor.org/)
 
 <h1>Statistics</h1> <img alt="GianXDDDDD's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gianxddddd&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right">
 
