@@ -21,6 +21,7 @@ Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 
 **Tools I use:**
 - [Git](https://git-scm.com/)
+- [Qt Creator](https://www.qt.io/product/development-tools)
 - [Android Studio](https://developer.android.com/studio)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Kate](https://kate-editor.org/)
