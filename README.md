@@ -6,13 +6,14 @@ Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 
 ----------
 
-**Programming Languages I use:**
+**Programming Languages I learnt and use:**
 - Python
 - Java
 - Kotlin
 - Android
 - Bash
 - Batch
+- C++ (Still learning but I use it for Qt projects)
 
 **Operating Systems I use:**
 - [btw i use arch](https://archlinux.org) with [KDE](https://kde.org/)
@@ -30,6 +31,7 @@ Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 
 **My current repository:**
 - [Archo Music](https://github.com/gianxddddd/ArchoMusic)
+- [Archo Music for Desktop](about:blank)
 ----------
 
 Forked from [ryenyuku](https://github.com/ryenyuku/ryenyuku)
