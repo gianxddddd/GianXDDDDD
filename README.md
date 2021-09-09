@@ -31,7 +31,6 @@ Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 
 **My current repository:**
 - [Archo Music](https://github.com/gianxddddd/ArchoMusic)
-- [Archo Music for Desktop](about:blank)
 ----------
 
 Forked from [ryenyuku](https://github.com/ryenyuku/ryenyuku)
