@@ -1,6 +1,6 @@
 <h1>GianXD</h1>
 
-Hi! I'm a 14-yo self-taught programmer and who likes to code in Android, Java, Kotlin, Python, Bash, and Windows Batch.
+Hi! I'm a 14-yo self-taught programmer and who likes to code in Java, Python, Bash, and many more..
 
 Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 
@@ -13,7 +13,7 @@ Mainly working on [Archo Music](https://github.com/gianxddddd/ArchoMusic).
 - Android
 - Bash
 - Batch
-- C++ (Still learning but I use it for Qt projects)
+- C++
 
 **Operating Systems I use:**
 - [btw i use arch](https://archlinux.org) with [KDE](https://kde.org/)
