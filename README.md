@@ -24,6 +24,8 @@ Mainly working on [Archo Music for Linux](https://github.com/gianxddddd/ArchoMus
 - [Git](https://git-scm.com/)
 - [Qt Creator](https://www.qt.io/product/development-tools)
 - [Android Studio](https://developer.android.com/studio)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Visual Studio Code](https://code.visualstudio.com)
 - [Kate](https://kate-editor.org/) and [Nano](https://www.nano-editor.org/)
 
